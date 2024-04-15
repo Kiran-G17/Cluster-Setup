@@ -1,5 +1,9 @@
 # Set up Docker Swarm
 
+> Node password - *CWX6bKveoEF^$
+
+> PiHole password - washing-ignition-implosion
+
 > PiHole Adlist - https://github.com/hagezi/dns-blocklists?tab=readme-ov-file#pro
 
 > Docker Relaod script after shutdown - ```./docker_loader.sh ```
